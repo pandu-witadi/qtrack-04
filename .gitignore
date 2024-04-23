@@ -1,0 +1,17 @@
+.idea
+
+
+## server
+server/node_modules
+server/.tmp
+server/package-lock.json
+
+
+## client
+client_planka
+
+
+## client_neo
+client_neo/node_modules
+client_planka/build
+client_neo/package-lock.json
